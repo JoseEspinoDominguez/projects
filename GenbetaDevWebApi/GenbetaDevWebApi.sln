@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenbetaDevWebApi", "GenbetaDevWebApi\GenbetaDevWebApi.csproj", "{33006717-ACD0-4BF0-AEE3-7BECE3CDC15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenbetaDevWebApi.Tests", "GenbetaDevWebApi.Tests\GenbetaDevWebApi.Tests.csproj", "{C5CD3375-190B-4217-B3EE-A822F6D43755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33006717-ACD0-4BF0-AEE3-7BECE3CDC15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33006717-ACD0-4BF0-AEE3-7BECE3CDC15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33006717-ACD0-4BF0-AEE3-7BECE3CDC15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33006717-ACD0-4BF0-AEE3-7BECE3CDC15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CD3375-190B-4217-B3EE-A822F6D43755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CD3375-190B-4217-B3EE-A822F6D43755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CD3375-190B-4217-B3EE-A822F6D43755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CD3375-190B-4217-B3EE-A822F6D43755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
